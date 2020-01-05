@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mineRadio on Palaver</title>
+    <link>https://palaver.jerad.xyz/categories/mineradio/</link>
+    <description>Recent content in mineRadio on Palaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://palaver.jerad.xyz/categories/mineradio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disposal</title>
+      <link>https://palaver.jerad.xyz/disposal/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://palaver.jerad.xyz/disposal/</guid>
+      <description>The movers have left boxes of shadows carrying baskets of laundry
+Though it is clear there is more behind than ahead
+You can critique it all you want
+Critique falls, season is near Before the pen hits the slide, The pages rest in my mind,</description>
+    </item>
+    
+  </channel>
+</rss>

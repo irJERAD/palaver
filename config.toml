@@ -1,0 +1,38 @@
+baseurl = "https://palaver.jerad.xyz"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Palaver"
+theme = "dream"
+
+# copyright = "dream scaping 2020"
+
+# googleAnalytics = ""
+
+# disqusShortname = "irjerad"
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Jerad Acosta"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "chameleon skinned, know me and know the world"
+  
+  email = "jsacosta1103@gmail.com"
+  # github = "irjerad"
+  # linkedin = "https://linkedin.com/in/jeradacosta"
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2019
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
